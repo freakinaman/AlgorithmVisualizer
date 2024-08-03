@@ -3,8 +3,7 @@
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://freakinaman.github.io/AlgorithmVisualizer/
-
+Visit : https://github.com/freakinaman/AlgorithmVisualizer
 This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 
 So far there are 6 segments  
