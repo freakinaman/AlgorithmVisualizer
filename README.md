@@ -4,17 +4,15 @@
 A better visualization of different algorithms made with React. 
 
 Visit : https://github.com/freakinaman/AlgorithmVisualizer
-This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 
-So far there are 6 segments  
+So far there are segments  
 - Pathfinder
 - Prime Numbers
 - Sorting Algorithms
 - N Queen
 - Convex Hull
 - Binary Search Game
-- Recursion Tree
-- Turing Machine
+
 
 I have implemented a total of `24 algorithms` so far. And will try to add more later.  
 
@@ -36,24 +34,8 @@ I have implemented a total of `24 algorithms` so far. And will try to add more l
 - N Queen Backtracking
 - Graham Scan for Convex Hull
 - Binary Search
-- Recursion
-  - Fibonacci Number
-  - Binomial Coefficient
-  - Derangement
-  - Fast Exponentiation
-  - Stirling Number of Second Kind
-
-- Turing Machine
-  - Bitwise NOT
-  - Increment one
-  - 2's Compliment
 
 
-
-### Special Features addition timeline
-
-- Commit 16: Added Flip Move animation to inplace sorting components
-- Commit 20: Added Tree Structure
 
 ### Acknowledgement
 
@@ -71,11 +53,4 @@ To deploy recent changes to page
 npm run build
 npm run deploy
 ```
-
-
-
-### Inspiration for next sections
-
-- [University of San Francisco Site](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
-- ​    [algorithm-visualizer](https://github.com/algorithm-visualizer)    /      [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)     
 
